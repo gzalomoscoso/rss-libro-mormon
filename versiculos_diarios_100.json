@@ -1,402 +1,137 @@
-{
-  "2025-06-16": {
-    "titulo": "1 Nefi 1:1 (versículo 1)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
+[
+  {
+    "libro": "2 Nefi 2:25",
+    "titulo": "El propósito de la vida",
+    "texto": "Adán cayó para que los hombres existiesen; y existen los hombres para que tengan gozo."
   },
-  "2025-06-17": {
-    "titulo": "1 Nefi 3:7 (versículo 2)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-06-18": {
-    "titulo": "2 Nefi 2:25 (versículo 3)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-06-19": {
-    "titulo": "Mosíah 2:17 (versículo 4)",
+  {
+    "libro": "Mosíah 2:17",
+    "titulo": "Servir al prójimo es servir a Dios",
     "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
   },
-  "2025-06-20": {
-    "titulo": "Alma 37:6 (versículo 5)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-06-21": {
-    "titulo": "Helamán 5:12 (versículo 6)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-06-22": {
-    "titulo": "3 Nefi 11:29 (versículo 7)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-06-23": {
-    "titulo": "Éter 12:27 (versículo 8)",
+  {
+    "libro": "Éter 12:27",
+    "titulo": "Dios da debilidades para que seamos humildes",
     "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
   },
-  "2025-06-24": {
-    "titulo": "Moroni 10:4 (versículo 9)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
+  {
+    "libro": "3 Nefi 5:13",
+    "titulo": "Soy discípulo de Jesucristo",
+    "texto": "He aquí, soy discípulo de Jesucristo, el Hijo de Dios."
   },
-  "2025-06-25": {
-    "titulo": "2 Nefi 2:11 (versículo 10)",
+  {
+    "libro": "Doctrina y Convenios 6:36",
+    "titulo": "No dudéis, confiad en Dios",
+    "texto": "Mirad hacia mí en todo pensamiento; no dudéis, no temáis."
+  },
+  {
+    "libro": "Alma 37:6",
+    "titulo": "Las cosas pequeñas traen grandes resultados",
+    "texto": "Por pequeñas y sencillas cosas se realizan grandes obras."
+  },
+  {
+    "libro": "2 Nefi 2:11",
+    "titulo": "La oposición es necesaria",
     "texto": "Es preciso que haya una oposición en todas las cosas."
   },
-  "2025-06-26": {
-    "titulo": "1 Nefi 1:1 (versículo 11)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-06-27": {
-    "titulo": "1 Nefi 3:7 (versículo 12)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-06-28": {
-    "titulo": "2 Nefi 2:25 (versículo 13)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-06-29": {
-    "titulo": "Mosíah 2:17 (versículo 14)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-06-30": {
-    "titulo": "Alma 37:6 (versículo 15)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-07-01": {
-    "titulo": "Helamán 5:12 (versículo 16)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-07-02": {
-    "titulo": "3 Nefi 11:29 (versículo 17)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-07-03": {
-    "titulo": "Éter 12:27 (versículo 18)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-07-04": {
-    "titulo": "Moroni 10:4 (versículo 19)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-07-05": {
-    "titulo": "2 Nefi 2:11 (versículo 20)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-07-06": {
-    "titulo": "1 Nefi 1:1 (versículo 21)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-07-07": {
-    "titulo": "1 Nefi 3:7 (versículo 22)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-07-08": {
-    "titulo": "2 Nefi 2:25 (versículo 23)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-07-09": {
-    "titulo": "Mosíah 2:17 (versículo 24)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-07-10": {
-    "titulo": "Alma 37:6 (versículo 25)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-07-11": {
-    "titulo": "Helamán 5:12 (versículo 26)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-07-12": {
-    "titulo": "3 Nefi 11:29 (versículo 27)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-07-13": {
-    "titulo": "Éter 12:27 (versículo 28)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-07-14": {
-    "titulo": "Moroni 10:4 (versículo 29)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-07-15": {
-    "titulo": "2 Nefi 2:11 (versículo 30)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-07-16": {
-    "titulo": "1 Nefi 1:1 (versículo 31)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-07-17": {
-    "titulo": "1 Nefi 3:7 (versículo 32)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-07-18": {
-    "titulo": "2 Nefi 2:25 (versículo 33)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-07-19": {
-    "titulo": "Mosíah 2:17 (versículo 34)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-07-20": {
-    "titulo": "Alma 37:6 (versículo 35)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-07-21": {
-    "titulo": "Helamán 5:12 (versículo 36)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-07-22": {
-    "titulo": "3 Nefi 11:29 (versículo 37)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-07-23": {
-    "titulo": "Éter 12:27 (versículo 38)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-07-24": {
-    "titulo": "Moroni 10:4 (versículo 39)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-07-25": {
-    "titulo": "2 Nefi 2:11 (versículo 40)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-07-26": {
-    "titulo": "1 Nefi 1:1 (versículo 41)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-07-27": {
-    "titulo": "1 Nefi 3:7 (versículo 42)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-07-28": {
-    "titulo": "2 Nefi 2:25 (versículo 43)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-07-29": {
-    "titulo": "Mosíah 2:17 (versículo 44)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-07-30": {
-    "titulo": "Alma 37:6 (versículo 45)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-07-31": {
-    "titulo": "Helamán 5:12 (versículo 46)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-08-01": {
-    "titulo": "3 Nefi 11:29 (versículo 47)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-08-02": {
-    "titulo": "Éter 12:27 (versículo 48)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-08-03": {
-    "titulo": "Moroni 10:4 (versículo 49)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-08-04": {
-    "titulo": "2 Nefi 2:11 (versículo 50)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-08-05": {
-    "titulo": "1 Nefi 1:1 (versículo 51)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-08-06": {
-    "titulo": "1 Nefi 3:7 (versículo 52)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-08-07": {
-    "titulo": "2 Nefi 2:25 (versículo 53)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-08-08": {
-    "titulo": "Mosíah 2:17 (versículo 54)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-08-09": {
-    "titulo": "Alma 37:6 (versículo 55)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-08-10": {
-    "titulo": "Helamán 5:12 (versículo 56)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-08-11": {
-    "titulo": "3 Nefi 11:29 (versículo 57)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-08-12": {
-    "titulo": "Éter 12:27 (versículo 58)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-08-13": {
-    "titulo": "Moroni 10:4 (versículo 59)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-08-14": {
-    "titulo": "2 Nefi 2:11 (versículo 60)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-08-15": {
-    "titulo": "1 Nefi 1:1 (versículo 61)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-08-16": {
-    "titulo": "1 Nefi 3:7 (versículo 62)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-08-17": {
-    "titulo": "2 Nefi 2:25 (versículo 63)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-08-18": {
-    "titulo": "Mosíah 2:17 (versículo 64)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-08-19": {
-    "titulo": "Alma 37:6 (versículo 65)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-08-20": {
-    "titulo": "Helamán 5:12 (versículo 66)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-08-21": {
-    "titulo": "3 Nefi 11:29 (versículo 67)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-08-22": {
-    "titulo": "Éter 12:27 (versículo 68)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-08-23": {
-    "titulo": "Moroni 10:4 (versículo 69)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-08-24": {
-    "titulo": "2 Nefi 2:11 (versículo 70)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-08-25": {
-    "titulo": "1 Nefi 1:1 (versículo 71)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-08-26": {
-    "titulo": "1 Nefi 3:7 (versículo 72)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-08-27": {
-    "titulo": "2 Nefi 2:25 (versículo 73)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-08-28": {
-    "titulo": "Mosíah 2:17 (versículo 74)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-08-29": {
-    "titulo": "Alma 37:6 (versículo 75)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-08-30": {
-    "titulo": "Helamán 5:12 (versículo 76)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-08-31": {
-    "titulo": "3 Nefi 11:29 (versículo 77)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-09-01": {
-    "titulo": "Éter 12:27 (versículo 78)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-09-02": {
-    "titulo": "Moroni 10:4 (versículo 79)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-09-03": {
-    "titulo": "2 Nefi 2:11 (versículo 80)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-09-04": {
-    "titulo": "1 Nefi 1:1 (versículo 81)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-09-05": {
-    "titulo": "1 Nefi 3:7 (versículo 82)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-09-06": {
-    "titulo": "2 Nefi 2:25 (versículo 83)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-09-07": {
-    "titulo": "Mosíah 2:17 (versículo 84)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-09-08": {
-    "titulo": "Alma 37:6 (versículo 85)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-09-09": {
-    "titulo": "Helamán 5:12 (versículo 86)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-09-10": {
-    "titulo": "3 Nefi 11:29 (versículo 87)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-09-11": {
-    "titulo": "Éter 12:27 (versículo 88)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-09-12": {
-    "titulo": "Moroni 10:4 (versículo 89)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-09-13": {
-    "titulo": "2 Nefi 2:11 (versículo 90)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  "2025-09-14": {
-    "titulo": "1 Nefi 1:1 (versículo 91)",
-    "texto": "Yo, Nefi, nací de buenos padres, por tanto, fui enseñado algo en toda la ciencia de mi padre."
-  },
-  "2025-09-15": {
-    "titulo": "1 Nefi 3:7 (versículo 92)",
-    "texto": "Iré y haré lo que el Señor ha mandado."
-  },
-  "2025-09-16": {
-    "titulo": "2 Nefi 2:25 (versículo 93)",
-    "texto": "Adán cayó para que los hombres existiesen; y los hombres existen para que tengan gozo."
-  },
-  "2025-09-17": {
-    "titulo": "Mosíah 2:17 (versículo 94)",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
-  },
-  "2025-09-18": {
-    "titulo": "Alma 37:6 (versículo 95)",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes cosas."
-  },
-  "2025-09-19": {
-    "titulo": "Helamán 5:12 (versículo 96)",
-    "texto": "Recordad que es sobre la roca de nuestro Redentor, quien es Cristo, el Hijo de Dios, que debéis edificar vuestro fundamento."
-  },
-  "2025-09-20": {
-    "titulo": "3 Nefi 11:29 (versículo 97)",
-    "texto": "La contención es del diablo."
-  },
-  "2025-09-21": {
-    "titulo": "Éter 12:27 (versículo 98)",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
-  },
-  "2025-09-22": {
-    "titulo": "Moroni 10:4 (versículo 99)",
-    "texto": "Preguntad a Dios, el Eterno Padre, en el nombre de Cristo, si estas cosas no son verdaderas."
-  },
-  "2025-09-23": {
-    "titulo": "2 Nefi 2:11 (versículo 100)",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
+  {
+    "libro": "3 Nefi 11:29",
+    "titulo": "El que tiene el espíritu de contención",
+    "texto": "El que tiene el espíritu de contención no es mío."
+  },
+  {
+    "libro": "Alma 41:10",
+    "titulo": "La iniquidad nunca fue felicidad",
+    "texto": "La iniquidad nunca fue felicidad."
+  },
+  {
+    "libro": "Doctrina y Convenios 121:7–8",
+    "titulo": "Dios dará consuelo en la tribulación",
+    "texto": "Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento."
+  },
+  {
+    "libro": "3 Nefi 4:10",
+    "titulo": "Los nefitas temen a Dios más que a sus enemigos",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  {
+    "libro": "1 Nefi 17:13",
+    "titulo": "El Señor guía en el desierto",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos. Por lo tanto, al grado que guardéis mis mandamientos, seréis conducidos hacia la tierra prometida; y sabréis que yo soy el que os conduce."
+  },
+  {
+    "libro": "2 Nefi 6:17",
+    "titulo": "El Señor librará a su pueblo del convenio",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio. Pues así dice el Señor: Yo contenderé con aquellos que contiendan contigo;"
+  },
+  {
+    "libro": "Alma 46:18",
+    "titulo": "Dios no permitirá que perezcan sus fieles",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  {
+    "libro": "2 Nefi 18:12–13",
+    "titulo": "Temed solo a Jehová",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo. Al Señor de los Ejércitos santificad; y sea él vuestro temor, y sea él vuestro miedo."
+  },
+  {
+    "libro": "Proverbios 3:5–7",
+    "titulo": "Confía en Jehová de todo corazón",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas. No seas sabio en tu propia opinión; teme a Jehová y apártate del mal,"
+  },
+  {
+    "libro": "1 Nefi 22:14",
+    "titulo": "La gran ramera caerá y Sion será protegida",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra, y caerán en la fosa que cavaron para entrampar al pueblo del Señor. Y todos los que combatan contra Sion serán destruidos, y esa gran ramera que ha pervertido las vías correctas del Señor, sí, esa grande y abominable iglesia caerá a tierra, y grande será su caída."
+  },
+  {
+    "libro": "Isaías 58:3–12",
+    "titulo": "El verdadero ayuno que agrada al Señor",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y serás como huerto de riego y como manantial cuyas aguas nunca faltan."
+  },
+  {
+    "libro": "Génesis 39:2–3",
+    "titulo": "Jehová prospera a José",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio. Y vio su amo que Jehová estaba con él y que todo lo que él hacía, Jehová lo hacía prosperar en su mano."
+  },
+  {
+    "libro": "Mosíah 23:21–22",
+    "titulo": "El Señor prueba la paciencia y fe",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe. Sin embargo, quien pone su confianza en él será enaltecido en el postrer día."
+  },
+  {
+    "libro": "Doctrina y Convenios 82:23",
+    "titulo": "El juicio es del Señor",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  {
+    "libro": "3 Nefi 16:12",
+    "titulo": "El Señor se acuerda de Israel",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti, antes bien me acordaré de mi convenio contigo, oh casa de Israel, y llegarás al conocimiento de la plenitud de mi evangelio."
+  },
+  {
+    "libro": "1 Nefi 21:14–16",
+    "titulo": "Dios no se olvida de Sion",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor; pero él mostrará que no... te tengo grabada en las palmas de mis manos; tus muros están siempre delante de mí."
+  },
+  {
+    "libro": "3 Nefi 21:29",
+    "titulo": "El Padre irá delante de su pueblo",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo, porque yo iré delante de ellos, dice el Padre, y seré su retaguardia."
+  },
+  {
+    "libro": "2 Nefi 20:24–25",
+    "titulo": "No temas al asirio",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio. Con vara te herirá, y levantará su palo contra ti a la manera de Egipto. Mas de aquí a poco tiempo cesarán la indignación y mi cólera para su destrucción."
+  },
+  {
+    "libro": "1 Nefi 7:12",
+    "titulo": "El Señor tiene poder sobre todas las cosas",
+    "texto": "Sí, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad, para los hijos de los hombres, si es que ejercen la fe en él? Por tanto, seámosle fieles."
+  },
+  {
+    "libro": "2 Nefi 1:9",
+    "titulo": "Obedecer trae prosperidad y seguridad",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén obedecen sus mandamientos, prosperarán sobre la superficie de esta tierra y serán preservados..."
   }
-}
+]
