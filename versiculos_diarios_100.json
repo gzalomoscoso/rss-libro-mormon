@@ -1,137 +1,22 @@
 [
   {
-    "libro": "2 Nefi 2:25",
-    "titulo": "El propósito de la vida",
-    "texto": "Adán cayó para que los hombres existiesen; y existen los hombres para que tengan gozo."
+    "title": "2 Nefi 2:25",
+    "description": "El hombre es, para que tenga gozo.",
+    "pubDate": "2025-06-16"
   },
   {
-    "libro": "Mosíah 2:17",
-    "titulo": "Servir al prójimo es servir a Dios",
-    "texto": "Cuando os halláis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios."
+    "title": "Mosíah 2:17",
+    "description": "Cuando estáis al servicio de vuestros semejantes, sólo estáis al servicio de vuestro Dios.",
+    "pubDate": "2025-06-15"
   },
   {
-    "libro": "Éter 12:27",
-    "titulo": "Dios da debilidades para que seamos humildes",
-    "texto": "Y si los hombres vienen a mí, les mostraré su debilidad."
+    "title": "Alma 37:6",
+    "description": "Por pequeñas cosas se realizan grandes cosas.",
+    "pubDate": "2025-06-14"
   },
   {
-    "libro": "3 Nefi 5:13",
-    "titulo": "Soy discípulo de Jesucristo",
-    "texto": "He aquí, soy discípulo de Jesucristo, el Hijo de Dios."
-  },
-  {
-    "libro": "Doctrina y Convenios 6:36",
-    "titulo": "No dudéis, confiad en Dios",
-    "texto": "Mirad hacia mí en todo pensamiento; no dudéis, no temáis."
-  },
-  {
-    "libro": "Alma 37:6",
-    "titulo": "Las cosas pequeñas traen grandes resultados",
-    "texto": "Por pequeñas y sencillas cosas se realizan grandes obras."
-  },
-  {
-    "libro": "2 Nefi 2:11",
-    "titulo": "La oposición es necesaria",
-    "texto": "Es preciso que haya una oposición en todas las cosas."
-  },
-  {
-    "libro": "3 Nefi 11:29",
-    "titulo": "El que tiene el espíritu de contención",
-    "texto": "El que tiene el espíritu de contención no es mío."
-  },
-  {
-    "libro": "Alma 41:10",
-    "titulo": "La iniquidad nunca fue felicidad",
-    "texto": "La iniquidad nunca fue felicidad."
-  },
-  {
-    "libro": "Doctrina y Convenios 121:7–8",
-    "titulo": "Dios dará consuelo en la tribulación",
-    "texto": "Hijo mío, paz a tu alma; tu adversidad y tus aflicciones no serán más que por un breve momento."
-  },
-  {
-    "libro": "3 Nefi 4:10",
-    "titulo": "Los nefitas temen a Dios más que a sus enemigos",
-    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
-  },
-  {
-    "libro": "1 Nefi 17:13",
-    "titulo": "El Señor guía en el desierto",
-    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos. Por lo tanto, al grado que guardéis mis mandamientos, seréis conducidos hacia la tierra prometida; y sabréis que yo soy el que os conduce."
-  },
-  {
-    "libro": "2 Nefi 6:17",
-    "titulo": "El Señor librará a su pueblo del convenio",
-    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio. Pues así dice el Señor: Yo contenderé con aquellos que contiendan contigo;"
-  },
-  {
-    "libro": "Alma 46:18",
-    "titulo": "Dios no permitirá que perezcan sus fieles",
-    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
-  },
-  {
-    "libro": "2 Nefi 18:12–13",
-    "titulo": "Temed solo a Jehová",
-    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo. Al Señor de los Ejércitos santificad; y sea él vuestro temor, y sea él vuestro miedo."
-  },
-  {
-    "libro": "Proverbios 3:5–7",
-    "titulo": "Confía en Jehová de todo corazón",
-    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas. No seas sabio en tu propia opinión; teme a Jehová y apártate del mal,"
-  },
-  {
-    "libro": "1 Nefi 22:14",
-    "titulo": "La gran ramera caerá y Sion será protegida",
-    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra, y caerán en la fosa que cavaron para entrampar al pueblo del Señor. Y todos los que combatan contra Sion serán destruidos, y esa gran ramera que ha pervertido las vías correctas del Señor, sí, esa grande y abominable iglesia caerá a tierra, y grande será su caída."
-  },
-  {
-    "libro": "Isaías 58:3–12",
-    "titulo": "El verdadero ayuno que agrada al Señor",
-    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y serás como huerto de riego y como manantial cuyas aguas nunca faltan."
-  },
-  {
-    "libro": "Génesis 39:2–3",
-    "titulo": "Jehová prospera a José",
-    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio. Y vio su amo que Jehová estaba con él y que todo lo que él hacía, Jehová lo hacía prosperar en su mano."
-  },
-  {
-    "libro": "Mosíah 23:21–22",
-    "titulo": "El Señor prueba la paciencia y fe",
-    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe. Sin embargo, quien pone su confianza en él será enaltecido en el postrer día."
-  },
-  {
-    "libro": "Doctrina y Convenios 82:23",
-    "titulo": "El juicio es del Señor",
-    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
-  },
-  {
-    "libro": "3 Nefi 16:12",
-    "titulo": "El Señor se acuerda de Israel",
-    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti, antes bien me acordaré de mi convenio contigo, oh casa de Israel, y llegarás al conocimiento de la plenitud de mi evangelio."
-  },
-  {
-    "libro": "1 Nefi 21:14–16",
-    "titulo": "Dios no se olvida de Sion",
-    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor; pero él mostrará que no... te tengo grabada en las palmas de mis manos; tus muros están siempre delante de mí."
-  },
-  {
-    "libro": "3 Nefi 21:29",
-    "titulo": "El Padre irá delante de su pueblo",
-    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo, porque yo iré delante de ellos, dice el Padre, y seré su retaguardia."
-  },
-  {
-    "libro": "2 Nefi 20:24–25",
-    "titulo": "No temas al asirio",
-    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio. Con vara te herirá, y levantará su palo contra ti a la manera de Egipto. Mas de aquí a poco tiempo cesarán la indignación y mi cólera para su destrucción."
-  },
-  {
-    "libro": "1 Nefi 7:12",
-    "titulo": "El Señor tiene poder sobre todas las cosas",
-    "texto": "Sí, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad, para los hijos de los hombres, si es que ejercen la fe en él? Por tanto, seámosle fieles."
-  },
-  {
-    "libro": "2 Nefi 1:9",
-    "titulo": "Obedecer trae prosperidad y seguridad",
-    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén obedecen sus mandamientos, prosperarán sobre la superficie de esta tierra y serán preservados..."
+    "title": "Éter 12:27",
+    "description": "Doy a los hombres debilidad para que sean humildes.",
+    "pubDate": "2025-06-13"
   }
 ]
