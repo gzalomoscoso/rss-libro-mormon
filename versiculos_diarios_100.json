@@ -1,317 +1,1502 @@
-[
-  {
-    "title": "2 Nefi 2:25",
-    "description": "El hombre es, para que tenga gozo.",
-    "pubDate": "2025-06-16"
+{
+  "2025-06-16": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
   },
-  {
-    "title": "Mosíah 2:17",
-    "description": "Cuando estáis al servicio de vuestros semejantes, solo estáis al servicio de vuestro Dios.",
-    "pubDate": "2025-06-16"
+  "2025-06-17": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
   },
-  {
-    "title": "Éter 12:27",
-    "description": "Y si los hombres vienen a mí, les mostraré su debilidad.",
-    "pubDate": "2025-06-16"
+  "2025-06-18": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
   },
-  {
-    "title": "2 Nefi 2:6",
-    "description": "La redención viene por medio del Santo Mesías.",
-    "pubDate": "2025-06-16"
+  "2025-06-19": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
   },
-  {
-    "title": "Alma 37:6",
-    "description": "Por medio de cosas pequeñas se realizan grandes cosas.",
-    "pubDate": "2025-06-16"
+  "2025-06-20": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
   },
-  {
-    "title": "3 Nefi 27:27",
-    "description": "¿Qué clase de hombres habéis de ser? En verdad os digo, aun como yo soy.",
-    "pubDate": "2025-06-16"
+  "2025-06-21": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
   },
-  {
-    "title": "Mosíah 3:19",
-    "description": "El hombre natural es enemigo de Dios.",
-    "pubDate": "2025-06-16"
+  "2025-06-22": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
   },
-  {
-    "title": "1 Nefi 3:7",
-    "description": "Iré y haré lo que el Señor ha mandado.",
-    "pubDate": "2025-06-16"
+  "2025-06-23": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
   },
-  {
-    "title": "Alma 37:6–7",
-    "description": "Por cosas pequeñas y sencillas se confunden los sabios.",
-    "pubDate": "2025-06-16"
+  "2025-06-24": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
   },
-  {
-    "title": "Jacob 2:18",
-    "description": "Antes de buscar riquezas, buscad el reino de Dios.",
-    "pubDate": "2025-06-16"
+  "2025-06-25": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
   },
-  {
-    "title": "2 Nefi 2:11",
-    "description": "Es menester que haya una oposición en todas las cosas.",
-    "pubDate": "2025-06-16"
+  "2025-06-26": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
   },
-  {
-    "title": "Alma 34:32",
-    "description": "Esta vida es el tiempo para prepararse para comparecer ante Dios.",
-    "pubDate": "2025-06-16"
+  "2025-06-27": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
   },
-  {
-    "title": "3 Nefi 18:19",
-    "description": "Siempre debéis orar al Padre en mi nombre.",
-    "pubDate": "2025-06-16"
+  "2025-06-28": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
   },
-  {
-    "title": "Mosíah 2:41",
-    "description": "Considerad el bendito y feliz estado de aquellos que guardan los mandamientos.",
-    "pubDate": "2025-06-16"
+  "2025-06-29": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
   },
-  {
-    "title": "Helamán 5:12",
-    "description": "Recordad que es sobre la roca de nuestro Redentor que debéis edificar vuestro fundamento.",
-    "pubDate": "2025-06-16"
+  "2025-06-30": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
   },
-  {
-    "title": "Alma 37:35",
-    "description": "Aprende sabiduría en tu juventud.",
-    "pubDate": "2025-06-16"
+  "2025-07-01": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
   },
-  {
-    "title": "2 Nefi 31:20",
-    "description": "Debéis seguir adelante con firmeza en Cristo.",
-    "pubDate": "2025-06-16"
+  "2025-07-02": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
   },
-  {
-    "title": "3 Nefi 12:16",
-    "description": "Así alumbre vuestra luz delante de este pueblo.",
-    "pubDate": "2025-06-16"
+  "2025-07-03": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
   },
-  {
-    "title": "Alma 37:44",
-    "description": "Fija la vista en la palabra de Dios y avanza con fe.",
-    "pubDate": "2025-06-16"
+  "2025-07-04": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
   },
-  {
-    "title": "Éter 12:6",
-    "description": "No recibís testimonio sino hasta después de la prueba de vuestra fe.",
-    "pubDate": "2025-06-16"
+  "2025-07-05": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
   },
-  {
-    "title": "2 Nefi 2:13",
-    "description": "Si no hubiera ley, no habría pecado.",
-    "pubDate": "2025-06-16"
+  "2025-07-06": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
   },
-  {
-    "title": "Alma 5:14",
-    "description": "¿Habéis experimentado un cambio en vuestro corazón?",
-    "pubDate": "2025-06-16"
+  "2025-07-07": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
   },
-  {
-    "title": "Mosíah 24:14",
-    "description": "Aliviaré las cargas que pongan sobre vuestros hombros.",
-    "pubDate": "2025-06-16"
+  "2025-07-08": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
   },
-  {
-    "title": "3 Nefi 13:33",
-    "description": "Buscad primeramente el reino de Dios.",
-    "pubDate": "2025-06-16"
+  "2025-07-09": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
   },
-  {
-    "title": "2 Nefi 9:28",
-    "description": "Oh, la vanidad y la flaqueza de los hombres.",
-    "pubDate": "2025-06-16"
+  "2025-07-10": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
   },
-  {
-    "title": "Alma 11:43",
-    "description": "El espíritu y el cuerpo serán reunidos otra vez.",
-    "pubDate": "2025-06-16"
+  "2025-07-11": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
   },
-  {
-    "title": "Mosíah 2:22",
-    "description": "Todo lo que él requiere de vosotros es que guardéis sus mandamientos.",
-    "pubDate": "2025-06-16"
+  "2025-07-12": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
   },
-  {
-    "title": "1 Nefi 10:19",
-    "description": "El que procura con diligencia hallará; y los misterios de Dios le serán revelados.",
-    "pubDate": "2025-06-16"
+  "2025-07-13": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
   },
-  {
-    "title": "2 Nefi 26:33",
-    "description": "Todos son iguales ante Dios.",
-    "pubDate": "2025-06-16"
+  "2025-07-14": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
   },
-  {
-    "title": "Éter 12:4",
-    "description": "La fe lleva al alma a esperar una vida mejor.",
-    "pubDate": "2025-06-16"
+  "2025-07-15": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
   },
-  {
-    "title": "Alma 36:3",
-    "description": "Aquel que pone su confianza en Dios será sostenido en sus pruebas.",
-    "pubDate": "2025-06-16"
+  "2025-07-16": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
   },
-  {
-    "title": "2 Nefi 31:13",
-    "description": "Seguid adelante con inquebrantable fe en él.",
-    "pubDate": "2025-06-16"
+  "2025-07-17": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
   },
-  {
-    "title": "Mormón 9:21",
-    "description": "La fe mueve al Señor a obrar milagros.",
-    "pubDate": "2025-06-16"
+  "2025-07-18": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
   },
-  {
-    "title": "Mosíah 18:9",
-    "description": "Estar dispuestos a llevar las cargas los unos de los otros.",
-    "pubDate": "2025-06-16"
+  "2025-07-19": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
   },
-  {
-    "title": "Alma 37:6",
-    "description": "Por medio de cosas pequeñas se realizan grandes cosas.",
-    "pubDate": "2025-06-16"
+  "2025-07-20": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
   },
-  {
-    "title": "2 Nefi 9:28-29",
-    "description": "Cuando los sabios escuchan a Dios, son sabios en verdad.",
-    "pubDate": "2025-06-16"
+  "2025-07-21": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
   },
-  {
-    "title": "Mosíah 4:30",
-    "description": "Guardaos de no dejaros llevar por el maligno.",
-    "pubDate": "2025-06-16"
+  "2025-07-22": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
   },
-  {
-    "title": "3 Nefi 27:21",
-    "description": "Esto es lo que me habéis visto hacer.",
-    "pubDate": "2025-06-16"
+  "2025-07-23": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
   },
-  {
-    "title": "2 Nefi 2:26",
-    "description": "Los hombres son libres para escoger la libertad y la vida eterna.",
-    "pubDate": "2025-06-16"
+  "2025-07-24": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
   },
-  {
-    "title": "Moroni 10:4",
-    "description": "Preguntad a Dios, y él os manifestará la verdad por el poder del Espíritu Santo.",
-    "pubDate": "2025-06-16"
+  "2025-07-25": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
   },
-  {
-    "title": "Mosíah 4:27",
-    "description": "No se requiere que el hombre corra más aprisa de lo que tenga fuerzas.",
-    "pubDate": "2025-06-16"
+  "2025-07-26": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
   },
-  {
-    "title": "Helamán 5:10",
-    "description": "Cristo vendrá para redimir al mundo de sus pecados.",
-    "pubDate": "2025-06-16"
+  "2025-07-27": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
   },
-  {
-    "title": "2 Nefi 9:51",
-    "description": "Venid al Santo de Israel y saciad vuestra alma.",
-    "pubDate": "2025-06-16"
+  "2025-07-28": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
   },
-  {
-    "title": "Alma 34:33",
-    "description": "No os demoraréis el día de vuestro arrepentimiento.",
-    "pubDate": "2025-06-16"
+  "2025-07-29": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
   },
-  {
-    "title": "Jacob 4:10",
-    "description": "No procuréis aconsejar al Señor, sino recibir consejo de su mano.",
-    "pubDate": "2025-06-16"
+  "2025-07-30": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
   },
-  {
-    "title": "3 Nefi 13:20-21",
-    "description": "Donde esté vuestro tesoro, allí estará también vuestro corazón.",
-    "pubDate": "2025-06-16"
+  "2025-07-31": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
   },
-  {
-    "title": "Mosíah 5:15",
-    "description": "Sed firmes, inmutables, rebosando de buenas obras.",
-    "pubDate": "2025-06-16"
+  "2025-08-01": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
   },
-  {
-    "title": "Alma 7:11-12",
-    "description": "Tomará sobre sí los dolores y aflicciones de su pueblo.",
-    "pubDate": "2025-06-16"
+  "2025-08-02": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
   },
-  {
-    "title": "2 Nefi 9:23",
-    "description": "Es necesario arrepentirse y bautizarse en su nombre.",
-    "pubDate": "2025-06-16"
+  "2025-08-03": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
   },
-  {
-    "title": "Mormón 9:19",
-    "description": "¿Ha cesado el poder de Dios? ¡No!",
-    "pubDate": "2025-06-16"
+  "2025-08-04": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
   },
-  {
-    "title": "Moroni 7:45",
-    "description": "La caridad es sufrida, es benigna, no se envanece.",
-    "pubDate": "2025-06-16"
+  "2025-08-05": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
   },
-  {
-    "title": "Mosíah 23:18",
-    "description": "Confiaban en Dios y trabajaban diligentemente.",
-    "pubDate": "2025-06-16"
+  "2025-08-06": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
   },
-  {
-    "title": "3 Nefi 11:29",
-    "description": "Aquel que tiene el espíritu de contención no es mío.",
-    "pubDate": "2025-06-16"
+  "2025-08-07": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
   },
-  {
-    "title": "Éter 12:27",
-    "description": "Y si los hombres vienen a mí, les mostraré su debilidad.",
-    "pubDate": "2025-06-16"
+  "2025-08-08": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
   },
-  {
-    "title": "Alma 42:31",
-    "description": "Deja que la justicia de Dios, su misericordia y su longanimidad te influyan.",
-    "pubDate": "2025-06-16"
+  "2025-08-09": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
   },
-  {
-    "title": "Mosíah 4:11",
-    "description": "Acordaos de la grandeza de Dios y de vuestra propia nada.",
-    "pubDate": "2025-06-16"
+  "2025-08-10": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
   },
-  {
-    "title": "Helamán 3:35",
-    "description": "Se fortalecían cada día en su fe.",
-    "pubDate": "2025-06-16"
+  "2025-08-11": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
   },
-  {
-    "title": "2 Nefi 2:24",
-    "description": "Todas las cosas han sido hechas por causa del hombre.",
-    "pubDate": "2025-06-16"
+  "2025-08-12": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
   },
-  {
-    "title": "Alma 26:12",
-    "description": "En mi fuerza nada soy.",
-    "pubDate": "2025-06-16"
+  "2025-08-13": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
   },
-  {
-    "title": "3 Nefi 18:20",
-    "description": "Todo lo que pidiereis al Padre en mi nombre, creyendo, lo recibiréis.",
-    "pubDate": "2025-06-16"
+  "2025-08-14": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
   },
-  {
-    "title": "Moroni 7:16",
-    "description": "El Espíritu de Cristo da el conocimiento para juzgar entre lo bueno y lo malo.",
-    "pubDate": "2025-06-16"
+  "2025-08-15": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
   },
-  {
-    "title": "Alma 37:36",
-    "description": "Consulta al Señor en todas tus acciones.",
-    "pubDate": "2025-06-16"
+  "2025-08-16": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
   },
-  {
-    "title": "Éter 12:41",
-    "description": "Buscad a Jesucristo, y vivid.",
-    "pubDate": "2025-06-16"
+  "2025-08-17": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-08-18": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-08-19": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-08-20": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-08-21": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-08-22": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-08-23": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-08-24": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-08-25": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-08-26": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-08-27": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-08-28": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-08-29": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-08-30": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-08-31": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-09-01": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-09-02": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-09-03": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-09-04": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-09-05": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-09-06": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-09-07": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-09-08": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-09-09": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-09-10": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-09-11": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-09-12": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-09-13": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-09-14": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-09-15": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-09-16": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-09-17": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-09-18": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-09-19": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-09-20": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-09-21": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-09-22": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-09-23": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-09-24": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-09-25": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-09-26": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-09-27": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-09-28": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-09-29": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-09-30": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-10-01": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-10-02": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-10-03": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-10-04": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-10-05": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-10-06": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-10-07": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-10-08": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-10-09": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-10-10": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-10-11": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-10-12": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-10-13": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-10-14": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-10-15": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-10-16": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-10-17": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-10-18": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-10-19": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-10-20": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-10-21": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-10-22": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-10-23": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-10-24": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-10-25": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-10-26": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-10-27": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-10-28": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-10-29": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-10-30": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-10-31": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-11-01": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-11-02": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-11-03": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-11-04": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-11-05": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-11-06": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-11-07": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-11-08": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-11-09": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-11-10": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-11-11": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-11-12": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-11-13": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-11-14": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-11-15": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-11-16": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-11-17": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-11-18": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-11-19": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-11-20": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-11-21": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-11-22": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-11-23": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-11-24": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-11-25": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-11-26": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-11-27": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-11-28": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-11-29": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-11-30": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-12-01": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-12-02": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-12-03": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-12-04": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-12-05": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-12-06": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-12-07": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-12-08": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-12-09": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-12-10": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-12-11": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-12-12": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-12-13": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-12-14": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2025-12-15": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2025-12-16": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2025-12-17": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2025-12-18": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2025-12-19": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2025-12-20": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2025-12-21": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2025-12-22": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2025-12-23": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2025-12-24": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2025-12-25": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2025-12-26": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2025-12-27": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2025-12-28": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2025-12-29": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2025-12-30": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2025-12-31": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-01-01": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-01-02": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-01-03": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-01-04": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-01-05": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-01-06": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-01-07": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-01-08": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-01-09": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-01-10": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-01-11": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-01-12": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-01-13": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-01-14": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-01-15": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-01-16": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2026-01-17": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-01-18": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-01-19": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-01-20": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-01-21": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-01-22": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-01-23": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-01-24": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-01-25": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-01-26": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-01-27": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-01-28": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-01-29": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-01-30": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-01-31": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-02-01": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-02-02": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2026-02-03": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-02-04": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-02-05": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-02-06": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-02-07": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-02-08": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-02-09": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-02-10": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-02-11": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-02-12": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-02-13": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-02-14": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-02-15": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-02-16": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-02-17": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-02-18": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-02-19": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2026-02-20": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-02-21": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-02-22": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-02-23": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-02-24": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-02-25": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-02-26": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-02-27": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-02-28": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-03-01": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-03-02": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-03-03": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-03-04": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-03-05": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-03-06": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-03-07": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-03-08": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2026-03-09": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-03-10": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-03-11": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-03-12": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-03-13": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-03-14": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-03-15": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-03-16": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-03-17": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-03-18": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-03-19": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-03-20": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-03-21": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-03-22": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-03-23": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-03-24": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-03-25": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
+  },
+  "2026-03-26": {
+    "libro": "3 Nefi",
+    "titulo": "16:12",
+    "texto": "Y te mostraré, oh casa de Israel, que los gentiles no tendrán poder sobre ti..."
+  },
+  "2026-03-27": {
+    "libro": "1 Nefi",
+    "titulo": "21:14–16",
+    "texto": "Mas he aquí, Sion ha dicho: El Señor me abandonó, y de mí se ha olvidado mi Señor..."
+  },
+  "2026-03-28": {
+    "libro": "3 Nefi",
+    "titulo": "21:29",
+    "texto": "Y saldrán de todas las naciones; y no saldrán de prisa, ni irán huyendo..."
+  },
+  "2026-03-29": {
+    "libro": "2 Nefi",
+    "titulo": "20:24–25",
+    "texto": "Por lo tanto, así dice el Señor Dios de los Ejércitos: Pueblo mío que moras en Sion, no temas al asirio..."
+  },
+  "2026-03-30": {
+    "libro": "1 Nefi",
+    "titulo": "7:12",
+    "texto": "Sí, y, ¿cómo es que habéis olvidado que el Señor tiene poder de hacer todas las cosas según su voluntad..."
+  },
+  "2026-03-31": {
+    "libro": "2 Nefi",
+    "titulo": "1:9",
+    "texto": "Por tanto, yo, Lehi, he obtenido la promesa de que, si aquellos que el Señor Dios trae de la tierra de Jerusalén..."
+  },
+  "2026-04-01": {
+    "libro": "3 Nefi",
+    "titulo": "4:10",
+    "texto": "Pero en esto se engañaron, porque los nefitas no les tenían miedo; pero sí temían a su Dios, y le suplicaron su protección; por tanto, cuando los ejércitos de Giddiani los arremetieron, se hallaban preparados para resistirlos, sí, les hicieron frente con la fuerza del Señor."
+  },
+  "2026-04-02": {
+    "libro": "1 Nefi",
+    "titulo": "17:13",
+    "texto": "y también seré vuestra luz en el desierto; y prepararé el camino delante de vosotros, si es que guardáis mis mandamientos..."
+  },
+  "2026-04-03": {
+    "libro": "2 Nefi",
+    "titulo": "6:17",
+    "texto": "Empero así dice el Señor: Aun los cautivos le serán quitados al poderoso, y la presa del tirano será librada; porque el Dios Fuerte librará a su pueblo del convenio..."
+  },
+  "2026-04-04": {
+    "libro": "Alma",
+    "titulo": "46:18",
+    "texto": "Y dijo: Ciertamente Dios no permitirá que nosotros, que somos despreciados porque tomamos sobre nosotros el nombre de Cristo, seamos hollados y destruidos sino hasta que lo provoquemos por nuestras propias transgresiones."
+  },
+  "2026-04-05": {
+    "libro": "2 Nefi",
+    "titulo": "18:12–13",
+    "texto": "No llaméis conspiración a todo lo que este pueblo llama conspiración; ni temáis lo que ellos temen, ni tengáis miedo..."
+  },
+  "2026-04-06": {
+    "libro": "Proverbios",
+    "titulo": "3:5–7",
+    "texto": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia..."
+  },
+  "2026-04-07": {
+    "libro": "1 Nefi",
+    "titulo": "22:14",
+    "texto": "Y toda nación que luche contra ti, oh casa de Israel, se volverá la una contra la otra..."
+  },
+  "2026-04-08": {
+    "libro": "Isaías",
+    "titulo": "58:3–12",
+    "texto": "Dicen: ¿Por qué ayunamos y no hiciste caso; humillamos nuestras almas, y no te diste por entendido?... Y los tuyos edificarán las ruinas antiguas..."
+  },
+  "2026-04-09": {
+    "libro": "Génesis",
+    "titulo": "39:2–3",
+    "texto": "Mas Jehová estaba con José, y fue varón próspero; y estaba en la casa de su amo, el egipcio..."
+  },
+  "2026-04-10": {
+    "libro": "Mosíah",
+    "titulo": "23:21–22",
+    "texto": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe..."
+  },
+  "2026-04-11": {
+    "libro": "DyC",
+    "titulo": "82:23",
+    "texto": "Dejadme a mí el juicio, porque es mío, y yo pagaré. Paz a vosotros; mis bendiciones os acompañan."
   }
-]
+}
